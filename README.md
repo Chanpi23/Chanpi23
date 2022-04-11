@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chanpi23
+- 👋 Hi, I’m Chandrika D 
 - 👀 I’m interested in Weight Lifting , Anime & coding
 - 🌱 I’m currently learning ...Javascript,CSS,HTML,NODE
 - 💞️ I’m looking to collaborate on ...
